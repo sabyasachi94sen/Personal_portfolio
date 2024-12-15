@@ -884,7 +884,7 @@ input[type="checkbox"] {
 
 @media screen and (max-width:768px) {
   .skills--section--card {
-    padding: 32px 10px;
+    padding: 32px 25px;
     width: 100%;
     box-sizing: border-box;
   }
