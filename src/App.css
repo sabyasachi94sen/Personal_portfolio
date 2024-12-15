@@ -189,6 +189,10 @@ h2 {
   right: 0;
 }
 
+.navbar .logo--small{
+  display: none;
+}
+
 .navbar--items>ul {
   list-style: none;
   display: flex;
@@ -894,6 +898,20 @@ input[type="checkbox"] {
   .contact--section {
     padding: 20px;
     box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width:376px) {
+  .navbar{
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .navbar .logo--small{
+    display: block;
+  }
+
+  .navbar .logo--normal{
+    display: none;
   }
 }
 
