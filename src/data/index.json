@@ -4,74 +4,74 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": ""
     },
-    {
-      "id": "2",
-      "src": "./img/tag-1.png",
-      "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
-    {
-      "id": "3",
-      "src": "./img/feather-pen-2.png",
-      "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
-    },
+ 
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": ""
     }
   ],
   "portfolio": [
     {
       "id": "1",
-      "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/khan_sir.png",
+      "title": "Khan Global Studies",
+      "description": "Khan Global Studies is run by famous youtuber Khan Sir",
+      "link": "View Website",
+      "url": "https://khanglobalstudies.com/"
     },
     {
       "id": "2",
-      "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/erp.png",
+      "title": "ERP Dashboard",
+      "description": "ERP Dashboard is the product owned by Redgrape Technologies Pvt Ltd",
+      "link": "View Website",
+      "url":"https://portal-staging.mozosuite.com/home/login"
     },
     {
       "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "src": "./img/cgrm.png",
+      "title": "Srifin CGRM Dashboard",
+      "description": "CGRM Dashboad is the product owned by Srifin Credit Private Limited (Srifin).It is a new-age techno-driven microfinance institution that is focusing on servicing low income household in a transparent manner.",
+      "link": "View Website",
+      "url": "https://cgrm.srifincredit.com/login"
+    },
+    {
+      "id": "4",
+      "src": "./img/babusiya.png",
+      "title": "Babusiya Dashboard",
+      "description": "Babusiya - Online B2B & B2C Marketplace | Digital Marketing Company In India | Best B2B & B2C Portal in India.",
+      "link": "View Website",
+      "url": "https://babusiya.com/"
     }
   ],
   "testimonial": [
     {
       "id": "1",
       "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "src": "./img/khan_sir_review.png",
+      "description": "Very Hardworking and dedicated.He is a humble person with a light sense of humor",
+      "author_name": "Khan Sir",
+      "author_designation": "Khan Global Studies"
     },
     {
       "id": "2",
       "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "src": "./img/rajesh_mallah_review.jpeg",
+      "description": "A very good team player.Always take initiative and propose new approaches",
+      "author_name": "Rajesh Mallah",
+      "author_designation": "Redgrape Technologies Pvt Ltd"
     },
     {
       "id": "3",
       "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "src": "./img/sirshendu_review.jpeg",
+      "description": "Very good communicative person.Always deliver projects on time",
+      "author_name": "Shirshendu Banerjee",
+      "author_designation": "Babusiya"
     }
   ]
 }

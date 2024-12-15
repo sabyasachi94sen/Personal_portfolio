@@ -16,6 +16,12 @@ h6,
 p {
   margin: 0;
 }
+a{
+  color: black;
+}
+
+a:link{text-decoration: none;}
+
 :root {
   --primary: #5e3bee;
   --heading-color: #282938;
@@ -386,6 +392,7 @@ h2 {
   padding-bottom: 10.6px;
   font-weight: 600;
 }
+
 .portfolio--section--card:hover path {
   stroke: #006b6a;
 }
@@ -422,6 +429,13 @@ h2 {
   display: flex;
   align-items: center;
   gap: 21.3px;
+}
+
+.testimonial--section--card--author--detail img{
+
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
 }
 .testimonial--author--name {
   font-weight: 600;
