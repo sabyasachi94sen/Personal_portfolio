@@ -890,4 +890,11 @@ input[type="checkbox"] {
   }
 }
 
+@media screen and (max-width:576px) {
+  .contact--section {
+    padding: 20px;
+    box-sizing: border-box;
+  }
+}
+
 /* Responsive Screens Ends*/
