@@ -14,7 +14,7 @@ export default function HeroSection() {
             <br />
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <a href="tel:5551234567"><button className="btn btn-primary">Get In Touch</button></a>
       </div>
       <div className="hero--section--img">
         <img src="./img/deep.jpg" alt="Hero Section" />

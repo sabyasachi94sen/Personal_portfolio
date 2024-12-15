@@ -373,6 +373,12 @@ h2 {
   border-top-left-radius: 12px;
   border-top-right-radius: 12px;
 }
+
+.portfolio--section--card:hover{
+  transform: scale(1.1);
+  transition: all 0.3s;
+  border-bottom: 4px solid var(--primary);
+}
 .portfolio--section--card--content {
   display: flex;
   padding: 32px;
@@ -431,7 +437,7 @@ h2 {
   gap: 21.3px;
 }
 
-.testimonial--section--card--author--detail img{
+.testimonial--section--card--author--detail > img{
 
   border-radius: 50%;
   width: 100px;
