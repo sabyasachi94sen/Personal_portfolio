@@ -3,14 +3,19 @@
     {
       "id": "1",
       "src": "./img/product-chain-1.png",
-      "title": "Front-End",
+      "title": "Front End Development",
       "description": ""
     },
- 
     {
-      "id": "4",
-      "src": "./img/feather-pen-1.png",
-      "title": "Webflow Development",
+      "id": "2",
+      "src": "./img/product-chain-1.png",
+      "title": "Mobile Development",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "src": "./img/product-chain-1.png",
+      "title": "Mobile Development",
       "description": ""
     }
   ],

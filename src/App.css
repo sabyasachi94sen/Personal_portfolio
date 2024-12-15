@@ -295,8 +295,8 @@ h2 {
 
 .skills--section--container {
   display: grid;
-  justify-content: center;
-  align-items: flex-start;
+  justify-content: space-between;
+  align-items: center;
   gap: 42.6px;
   grid-template-columns: repeat(4, 1fr);
 }
